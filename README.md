@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I received the B.S. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2023. My research interests include web system design, distributed system, and application security. (email: unidev@ajou.ac.kr)
+
+Introduction: https://cv.jiheon.dev
+
 <!--
 **jiheon-dev/jiheon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
