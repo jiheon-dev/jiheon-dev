@@ -1,8 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
 I received a B.S. degree in Software and Computer Engineering from Ajou University in Suwon, South Korea in August 2023. I am a M.S. student in the Department of Artificial Intelligence at Ajou University. I am a member of the [WISE (Web Infrastructure and Software Enhancement) Lab](https://wise.ajou.ac.kr), led by Ph.D. Sangyoon Oh. My research interests include web system design, distributed systems, and application security. You can contact me via email at unidev@ajou.ac.kr.
 
 Introduction: https://jiheon.dev/about/
+
+### Recent posts
+* [JavaScript Async 함수는 Promise 객체를 반환하는가?](https://jiheon.dev/posts/javascript-async-return/)
+* [HTTP protocol에서 x-xss-protection header에 관한 이야기](https://jiheon.dev/posts/http-header-xss/)
 
 <!--
 **jiheon-dev/jiheon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
