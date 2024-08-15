@@ -5,8 +5,8 @@ I received a B.S. degree in Software and Computer Engineering from Ajou Universi
 Introduction: https://jiheon.dev
 
 ### Recent posts
-* [JavaScript Async 함수는 Promise 객체를 반환하는가?](https://jiheon.dev/posts/javascript-async-return/)
-* [HTTP protocol에서 x-xss-protection header에 관한 이야기](https://jiheon.dev/posts/http-header-xss/)
+* [JavaScript Async 함수는 Promise 객체를 반환하는가?](https://stories.jiheon.dev/posts/javascript-async-return/)
+* [HTTP protocol에서 x-xss-protection header에 관한 이야기](https://stories.jiheon.dev/posts/http-header-xss/)
 
 <!--
 **jiheon-dev/jiheon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
