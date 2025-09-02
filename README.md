@@ -4,6 +4,9 @@ I received a B.S. degree in Software and Computer Engineering from Ajou Universi
 
 Introduction and Personal Blog: https://jiheonchoi.com
 
+### ✔ News
+2025.08: One paper has been accepted to Journal of Systems Architecture
+
 
 <!--
 **jiheon-dev/jiheon-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
